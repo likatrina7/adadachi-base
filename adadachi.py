@@ -4,4 +4,4 @@ class Adadachi:
         self.hunger = 2
         self.happiness = 1
         self.personality = personality
-        self.poop_lvl = 0
+        self.poop_lvl = 1
